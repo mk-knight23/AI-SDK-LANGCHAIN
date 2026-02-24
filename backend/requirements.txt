@@ -2,9 +2,33 @@ fastapi==0.115.0
 uvicorn==0.32.0
 langgraph==0.2.50
 langchain-openai==0.2.0
+langchain-anthropic==0.3.0
+langchain-core==0.3.0
 pydantic==2.9.0
 python-dotenv==1.0.0
 pytest==8.3.0
 pytest-cov==6.0.0
 pytest-asyncio==0.24.0
 httpx==0.28.0
+
+# Database
+sqlalchemy==2.0.36
+asyncpg==0.30.0
+psycopg2-binary==2.9.9
+alembic==1.14.0
+
+# Redis
+redis==5.2.1
+hiredis==3.1.0
+
+# WebSocket
+websockets==14.1
+python-socketio==5.11.4
+
+# LangGraph persistence
+langgraph-checkpoint==2.0.0
+langgraph-checkpoint-postgres==2.0.0
+
+# Testing
+pytest-mock==3.14.0
+fakeredis==2.26.2
