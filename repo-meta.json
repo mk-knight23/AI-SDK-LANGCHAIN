@@ -1,0 +1,14 @@
+{
+  "name": "AI-SDK-LANGCHAIN",
+  "title": "LangChain Command Center",
+  "description": "Orchestration-focused chain composition for enterprise workflows",
+  "topics": [
+    "langchain",
+    "agents",
+    "workflow-orchestration",
+    "python",
+    "fastapi",
+    "enterprise-ai"
+  ],
+  "homepage": "https://mk-knight23.github.io/AI-SDK-LANGCHAIN"
+}
